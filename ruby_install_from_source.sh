@@ -29,3 +29,7 @@ echo "- Finished Ruby and dependencies install -"
 echo "- Installing Bundler -"
 gem install bundler
 echo "- Finished Bundler install"
+
+echo "- Installing Rake -"
+gem install bundler
+echo "- Finished Rake install"
