@@ -10,7 +10,3 @@ echo "- Finished Ruby and dependencies install -"
 echo "- Installing Bundler -"
 sudo gem install bundler
 echo "- Finished Bundler install"
-
-echo "- Installing Rake -"
-sudo gem install rake
-echo "- Finished Rake install"
