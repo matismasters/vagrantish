@@ -2,7 +2,6 @@
 
 echo "- Installing NPM -"
 sudo apt-get install -y npm
-sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
 echo "- Finished NPM install -"
 
 echo "- Installing N -"
