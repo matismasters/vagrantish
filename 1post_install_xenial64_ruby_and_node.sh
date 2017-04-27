@@ -10,7 +10,7 @@ export LC_ALL="en_US.UTF-8"
 sudo apt-get update
 
 # Run the installation scripts in the right order
-sh ruby_install_from_source.sh
+sh ruby_install.sh
 sh npm_n_and_node_install.sh
 sh image_magick_install.sh
 sh postgres_install.sh
